@@ -1,0 +1,16 @@
+[TGA Method]
+
+[((((LU, LY), HI), ((TA, TB)), (((AV, PE)), VE)((((OC)), (PR,((LI,LT)))))))]
+
+
+[(((AV, PE), VE)((((OC)), (PR,((LI,LT))))))]
+
+[(GO, (ON, (OE,OG))))]
+
+[(((LA,(OS, UM)),(OI, WE)), (GO, (ON, (OE,OG))))]
+
+[((((AV, PE), VE)((((OC)), (PR,((LI,LT)))))), (((LA,(OS, UM)),(OI, WE)), (GO, (ON, (OE,OG)))))]
+
+[((AL)((GK, AR)), ((((AV, PE), VE)((((OC)), (PR,((LI,LT)))))), (((LA,(OS, UM)),(OI, WE)), (GO, (ON, (OE,OG))))))]
+
+(((LU, LY), HI), ((TA, TB)), ((AL)((GK, AR)), ((((AV, PE), VE)((((OC)), (PR,((LI,LT)))))), (((LA,(OS, UM)),(OI, WE)), (GO, (ON, (OE,OG)))))))
